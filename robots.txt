@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dana-cepat.id/sitemap.xml
+Sitemap: https://sama-ku.id/sitemap.xml
