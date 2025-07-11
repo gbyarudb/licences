@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dana-cepat.id/sitemap.xml
